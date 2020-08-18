@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj": {}
+    "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj": {
+    "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj": {}
+    "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
+    "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj",
         "projectName": "Loan.Services",
-        "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj"
+              "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj": {
+    "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj",
         "projectName": "Messages",
-        "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj",
+        "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

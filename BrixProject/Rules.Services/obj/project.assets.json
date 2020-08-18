@@ -5496,11 +5496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Rules.Services\\Rules.Services.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj",
       "projectName": "Rules.Services",
-      "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Rules.Services\\Rules.Services.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Rules.Services\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

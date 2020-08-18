@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Rules.Data
 {
-   public class RulesContext: DbContext
+    public class RulesContext : DbContext
     {
         public DbSet<Rule> Rules { get; set; }
         public RulesContext(DbContextOptions<RulesContext> options)
@@ -17,8 +17,7 @@ namespace Rules.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-              //  optionsBuilder.UseSqlServer(ConfigurationManager.AppSettings["RuleConnection"]);
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-1HT6NS2; Initial Catalog = Rules; Integrated Security = True");
+                optionsBuilder.UseSqlServer(ConfigurationManager.AppSettings["RuleConnection"]);
                 base.OnConfiguring(optionsBuilder);
             }
         }

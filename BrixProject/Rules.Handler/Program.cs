@@ -18,7 +18,6 @@ namespace Rules.Handler
 {
     class Program
     {
-        //detete it?
         private readonly IConfiguration configuration;
         public Program(IConfiguration configuration)
         {

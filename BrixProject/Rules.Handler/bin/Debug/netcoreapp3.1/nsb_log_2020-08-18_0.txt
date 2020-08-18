@@ -893,3 +893,4 @@ License Expiration: 2020-10-05
 2020-08-18 18:30:34.742 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
 License Expiration: 2020-10-05
 2020-08-18 18:30:37.625 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 19:28:46.333 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info

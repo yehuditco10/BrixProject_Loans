@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿
 using ExcelDataReader;
 using Microsoft.AspNetCore.Http;
 using Rules.Api.Models;

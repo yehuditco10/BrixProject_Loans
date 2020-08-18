@@ -35,14 +35,11 @@ namespace Loan.Data
 
         public async Task<Services.Models.Loan> CreateAsync(Services.Models.Loan loan)
         {
-            //להחזיר מזהה הלואה או את כולה
-            //לעדכן את המזז באוביקט שהתקבל ואותו להחזיר או ככה?
             Entities.Loan newLoan = _mapper.Map<Entities.Loan>(loan);
             newLoan.Id = Guid.NewGuid();
             newLoan.Status = Entities.eStatus.processing;
             await _loanContext.AddAsync(newLoan);
             await _loanContext.SaveChangesAsync();
-            //להחזיר?
             return _mapper.Map<Services.Models.Loan>(newLoan);
         }
 

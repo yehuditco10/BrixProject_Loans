@@ -225,3 +225,11 @@ License Expiration: 2020-10-05
 2020-08-18 18:30:35.302 INFO  Executing saga creation scripts:
 C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
 2020-08-18 18:30:36.294 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 19:28:43.433 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 19:28:44.210 INFO  Auditing processed messages to 'audit'
+2020-08-18 19:28:44.420 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 19:28:46.864 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 19:28:48.121 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 19:28:49.293 WARN  All queues owned by the endpoint will be purged on startup.

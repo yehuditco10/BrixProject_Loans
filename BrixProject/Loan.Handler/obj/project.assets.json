@@ -9857,11 +9857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Handler\\Loan.Handler.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Handler\\Loan.Handler.csproj",
       "projectName": "Loan.Handler",
-      "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Handler\\Loan.Handler.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Handler\\Loan.Handler.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Handler\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Handler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9877,17 +9877,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Api\\Loan.Api.csproj": {
-              "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Api\\Loan.Api.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Api\\Loan.Api.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Api\\Loan.Api.csproj"
             },
-            "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Data\\Loan.Data.csproj": {
-              "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Data\\Loan.Data.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Data\\Loan.Data.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Data\\Loan.Data.csproj"
             },
-            "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
-              "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj"
             },
-            "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Messages\\Messages.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Messages\\Messages.csproj"
             }
           }
         }

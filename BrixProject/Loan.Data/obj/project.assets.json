@@ -6781,11 +6781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Data\\Loan.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Data\\Loan.Data.csproj",
       "projectName": "Loan.Data",
-      "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Data\\Loan.Data.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Data\\Loan.Data.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Data\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6801,8 +6801,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
-              "projectPath": "C:\\Users\\user1\\source\\repos\\BrixProject\\Loan.Services\\Loan.Services.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Loan.Services\\Loan.Services.csproj"
             }
           }
         }
