@@ -1,0 +1,227 @@
+﻿2020-08-18 00:07:09.518 WARN  'LoanHandler MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 00:07:09.518 WARN  'LoanHandler Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 00:07:09.533 WARN  The circuit breaker for 'LoanHandler MessagePump' is now in the armed state
+2020-08-18 00:07:09.571 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 00:07:19.508 INFO  The circuit breaker for 'LoanHandler MessagePump' is now disarmed
+2020-08-18 00:07:54.163 INFO  Connection to the broker reestablished successfully.
+2020-08-18 00:08:43.034 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 00:08:43.943 INFO  Auditing processed messages to 'audit'
+2020-08-18 00:08:44.461 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 00:08:47.247 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 00:08:47.573 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 00:08:48.325 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 00:09:39.637 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 00:09:40.089 INFO  Auditing processed messages to 'audit'
+2020-08-18 00:09:40.294 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 00:09:41.883 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 00:09:42.125 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 00:09:42.623 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 00:14:27.978 WARN  'LoanHandler Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 00:14:27.978 WARN  'LoanHandler MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 00:14:27.991 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 00:14:28.010 WARN  The circuit breaker for 'LoanHandler MessagePump' is now in the armed state
+2020-08-18 00:16:08.554 INFO  Connection to the broker reestablished successfully.
+2020-08-18 00:16:08.569 INFO  The circuit breaker for 'LoanHandler MessagePump' is now disarmed
+2020-08-18 00:43:15.693 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 00:43:16.392 INFO  Auditing processed messages to 'audit'
+2020-08-18 00:43:16.821 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 00:43:19.750 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 00:43:20.166 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 00:43:21.047 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 03:14:24.558 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 03:14:25.028 INFO  Auditing processed messages to 'audit'
+2020-08-18 03:14:25.273 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 03:14:27.089 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 03:14:27.289 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 03:14:27.755 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 03:16:35.067 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 03:16:38.181 INFO  Auditing processed messages to 'audit'
+2020-08-18 03:16:40.291 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 03:16:50.032 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 03:16:51.036 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 03:16:53.731 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 11:52:54.059 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 11:52:54.408 INFO  Auditing processed messages to 'audit'
+2020-08-18 11:52:54.564 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 11:52:56.006 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 11:52:56.292 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 11:52:56.747 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 12:03:18.040 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 12:03:18.474 INFO  Auditing processed messages to 'audit'
+2020-08-18 12:03:18.692 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 12:03:20.554 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 12:03:20.722 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 12:03:21.115 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 12:04:52.850 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 12:04:53.261 INFO  Auditing processed messages to 'audit'
+2020-08-18 12:04:53.433 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 12:04:55.393 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 12:04:56.234 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 12:04:58.274 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 12:44:13.422 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 12:44:13.655 INFO  Auditing processed messages to 'audit'
+2020-08-18 12:44:13.758 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 12:44:14.574 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 12:44:14.739 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 12:44:15.184 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 12:47:28.756 WARN  'LoanHandler Publish' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 12:47:28.756 WARN  'LoanHandler MessagePump' connection shutdown: AMQP close-reason, initiated by Library, code=541, text='Unexpected Exception', classId=0, methodId=0, cause=System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.BufferedStream.ReadByteSlow()
+   at System.IO.BufferedStream.ReadByte()
+   at RabbitMQ.Client.Impl.InboundFrame.ReadFrom(Stream reader)
+   at RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   at RabbitMQ.Client.Framing.Impl.Connection.MainLoop()
+2020-08-18 12:47:28.771 INFO  Attempting to reconnect in 10 seconds.
+2020-08-18 12:47:33.419 WARN  The circuit breaker for 'LoanHandler MessagePump' is now in the armed state
+2020-08-18 12:47:39.045 INFO  The circuit breaker for 'LoanHandler MessagePump' is now disarmed
+2020-08-18 12:47:44.454 INFO  Connection to the broker reestablished successfully.
+2020-08-18 12:49:34.470 INFO  in LoanSaga
+2020-08-18 13:09:22.828 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:09:23.539 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:09:23.784 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 13:09:26.072 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 13:09:26.482 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 13:09:27.351 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 13:11:55.331 INFO  in LoanSaga
+2020-08-18 13:15:27.815 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:15:28.621 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:15:28.918 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 13:15:31.932 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 13:15:32.506 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 13:15:33.857 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 13:17:52.166 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 13:17:52.735 INFO  Auditing processed messages to 'audit'
+2020-08-18 13:17:53.862 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 13:17:55.501 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 13:17:55.704 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 13:17:56.108 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 13:20:50.086 INFO  in LoanSaga
+2020-08-18 15:07:36.943 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 15:07:37.769 INFO  Auditing processed messages to 'audit'
+2020-08-18 15:07:38.147 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 15:07:41.690 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 15:07:42.167 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 15:07:42.861 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 18:09:11.699 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 18:09:12.552 INFO  Auditing processed messages to 'audit'
+2020-08-18 18:09:12.904 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 18:09:15.470 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 18:09:15.961 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 18:09:16.625 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 18:12:27.409 INFO  in LoanSaga
+2020-08-18 18:16:21.488 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 18:16:22.269 INFO  Auditing processed messages to 'audit'
+2020-08-18 18:16:22.566 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 18:16:25.594 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 18:16:25.865 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 18:16:26.628 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 18:17:10.103 INFO  in LoanSaga
+2020-08-18 18:19:10.839 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 18:19:11.456 INFO  Auditing processed messages to 'audit'
+2020-08-18 18:19:11.735 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 18:19:13.967 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 18:19:14.383 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 18:19:15.138 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 18:21:00.905 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 18:21:06.027 INFO  Auditing processed messages to 'audit'
+2020-08-18 18:21:06.612 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 18:21:09.878 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 18:21:10.199 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 18:21:10.992 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-18 18:30:30.793 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-18 18:30:31.516 INFO  Auditing processed messages to 'audit'
+2020-08-18 18:30:31.812 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-18 18:30:34.908 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-18 18:30:35.302 INFO  Executing saga creation scripts:
+C:\Users\user1\source\repos\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-18 18:30:36.294 WARN  All queues owned by the endpoint will be purged on startup.

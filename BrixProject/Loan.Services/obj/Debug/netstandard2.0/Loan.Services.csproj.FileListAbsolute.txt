@@ -1,0 +1,11 @@
+C:\Users\user1\source\repos\BrixProject\Loan.Services\bin\Debug\netstandard2.0\Loan.Services.deps.json
+C:\Users\user1\source\repos\BrixProject\Loan.Services\bin\Debug\netstandard2.0\Loan.Services.dll
+C:\Users\user1\source\repos\BrixProject\Loan.Services\bin\Debug\netstandard2.0\Loan.Services.pdb
+C:\Users\user1\source\repos\BrixProject\Loan.Services\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\source\repos\BrixProject\Loan.Services\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.AssemblyInfo.cs
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.csproj.CopyComplete
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.dll
+C:\Users\user1\source\repos\BrixProject\Loan.Services\obj\Debug\netstandard2.0\Loan.Services.pdb

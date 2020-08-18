@@ -1,0 +1,8 @@
+C:\Users\user1\source\repos\BrixProject\Rules.Services\bin\Debug\netstandard2.0\Rules.Services.deps.json
+C:\Users\user1\source\repos\BrixProject\Rules.Services\bin\Debug\netstandard2.0\Rules.Services.dll
+C:\Users\user1\source\repos\BrixProject\Rules.Services\bin\Debug\netstandard2.0\Rules.Services.pdb
+C:\Users\user1\source\repos\BrixProject\Rules.Services\obj\Debug\netstandard2.0\Rules.Services.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\BrixProject\Rules.Services\obj\Debug\netstandard2.0\Rules.Services.AssemblyInfo.cs
+C:\Users\user1\source\repos\BrixProject\Rules.Services\obj\Debug\netstandard2.0\Rules.Services.dll
+C:\Users\user1\source\repos\BrixProject\Rules.Services\obj\Debug\netstandard2.0\Rules.Services.pdb
+C:\Users\user1\source\repos\BrixProject\Rules.Services\obj\Debug\netstandard2.0\Rules.Services.csprojAssemblyReference.cache

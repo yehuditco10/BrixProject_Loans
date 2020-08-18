@@ -1,0 +1,1201 @@
+﻿2020-08-17 12:42:15.897 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 12:42:16.278 INFO  Auditing processed messages to 'audit'
+2020-08-17 12:42:16.373 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 12:42:17.035 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 13:19:56.657 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 13:20:03.012 INFO  Auditing processed messages to 'audit'
+2020-08-17 13:20:04.628 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 13:20:18.014 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:19:38.983 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:19:39.955 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:19:40.303 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 14:19:45.079 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:22:17.219 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:22:17.683 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:22:17.927 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 14:22:20.050 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:25:24.818 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:25:25.373 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:25:25.759 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 14:25:27.418 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 14:30:03.859 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:30:04.429 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:30:04.709 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 14:36:15.682 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:36:16.233 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:36:16.554 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 14:57:30.910 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 14:57:37.461 INFO  Auditing processed messages to 'audit'
+2020-08-17 14:57:37.861 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 15:09:37.899 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 15:09:38.403 INFO  Auditing processed messages to 'audit'
+2020-08-17 15:09:38.559 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 15:09:39.672 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:24:44.431 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:24:44.671 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:24:44.769 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:24:45.606 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:25:29.049 INFO  in ValidateLoanHandler
+2020-08-17 18:25:29.347 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:24:46:227044 Z
+	Handler failure time: 2020-08-17 15:25:29:326609 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:25:31.311 INFO  in ValidateLoanHandler
+2020-08-17 18:25:31.430 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 18
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:25:29:518916 Z
+	Handler failure time: 2020-08-17 15:25:31:423409 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:30.787 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:26:31.161 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:26:31.299 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:26:32.837 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:26:47.186 INFO  in ValidateLoanHandler
+2020-08-17 18:26:47.452 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:33:736600 Z
+	Handler failure time: 2020-08-17 15:26:47:312562 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:47.522 INFO  in ValidateLoanHandler
+2020-08-17 18:26:47.684 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:47:522674 Z
+	Handler failure time: 2020-08-17 15:26:47:586531 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:47.709 INFO  in ValidateLoanHandler
+2020-08-17 18:26:47.856 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:47:709978 Z
+	Handler failure time: 2020-08-17 15:26:47:767388 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:47.881 INFO  in ValidateLoanHandler
+2020-08-17 18:26:48.026 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:47:881731 Z
+	Handler failure time: 2020-08-17 15:26:47:938252 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:48.061 INFO  in ValidateLoanHandler
+2020-08-17 18:26:48.263 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:48:061831 Z
+	Handler failure time: 2020-08-17 15:26:48:137802 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:48.296 INFO  in ValidateLoanHandler
+2020-08-17 18:26:48.504 WARN  Delayed Retry will reschedule message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' after a delay of 00:00:10 because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:48:296968 Z
+	Handler failure time: 2020-08-17 15:26:48:377753 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:58.583 INFO  in ValidateLoanHandler
+2020-08-17 18:26:58.716 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:58:583479 Z
+	Handler failure time: 2020-08-17 15:26:58:641566 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:58.741 INFO  in ValidateLoanHandler
+2020-08-17 18:26:58.863 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:58:741100 Z
+	Handler failure time: 2020-08-17 15:26:58:792297 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:58.884 INFO  in ValidateLoanHandler
+2020-08-17 18:26:59.007 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:58:884487 Z
+	Handler failure time: 2020-08-17 15:26:58:938691 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:59.026 INFO  in ValidateLoanHandler
+2020-08-17 18:26:59.151 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:59:026365 Z
+	Handler failure time: 2020-08-17 15:26:59:074871 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:59.168 INFO  in ValidateLoanHandler
+2020-08-17 18:26:59.295 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:59:168572 Z
+	Handler failure time: 2020-08-17 15:26:59:217576 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:26:59.309 INFO  in ValidateLoanHandler
+2020-08-17 18:26:59.431 WARN  Delayed Retry will reschedule message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' after a delay of 00:00:20 because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:26:59:309949 Z
+	Handler failure time: 2020-08-17 15:26:59:365595 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:19.489 INFO  in ValidateLoanHandler
+2020-08-17 18:27:19.621 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:19:489780 Z
+	Handler failure time: 2020-08-17 15:27:19:548719 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:19.638 INFO  in ValidateLoanHandler
+2020-08-17 18:27:19.765 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:19:638061 Z
+	Handler failure time: 2020-08-17 15:27:19:687227 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:19.796 INFO  in ValidateLoanHandler
+2020-08-17 18:27:19.924 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:19:796602 Z
+	Handler failure time: 2020-08-17 15:27:19:852574 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:19.939 INFO  in ValidateLoanHandler
+2020-08-17 18:27:20.078 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:19:939597 Z
+	Handler failure time: 2020-08-17 15:27:20:000943 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:20.100 INFO  in ValidateLoanHandler
+2020-08-17 18:27:20.246 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:20:100899 Z
+	Handler failure time: 2020-08-17 15:27:20:163114 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:20.267 INFO  in ValidateLoanHandler
+2020-08-17 18:27:20.389 WARN  Delayed Retry will reschedule message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' after a delay of 00:00:30 because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:20:267746 Z
+	Handler failure time: 2020-08-17 15:27:20:312835 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:27:50.502 INFO  in ValidateLoanHandler
+2020-08-17 18:28:04.484 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:27:50:502101 Z
+	Handler failure time: 2020-08-17 15:28:04:414912 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:28:04.509 INFO  in ValidateLoanHandler
+2020-08-17 18:28:04.658 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:28:04:509034 Z
+	Handler failure time: 2020-08-17 15:28:04:566321 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:28:04.682 INFO  in ValidateLoanHandler
+2020-08-17 18:28:04.810 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:28:04:682267 Z
+	Handler failure time: 2020-08-17 15:28:04:736954 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:28:04.830 INFO  in ValidateLoanHandler
+2020-08-17 18:28:04.957 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:28:04:830198 Z
+	Handler failure time: 2020-08-17 15:28:04:880519 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:28:04.983 INFO  in ValidateLoanHandler
+2020-08-17 18:28:05.104 INFO  Immediate Retry is going to retry message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' because of an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:28:04:983658 Z
+	Handler failure time: 2020-08-17 15:28:05:032629 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:28:05.128 INFO  in ValidateLoanHandler
+2020-08-17 18:28:05.273 ERROR Moving message '797ce64f-081c-4324-9cc4-ac1a00f9e0e2' to the error queue 'error' because processing failed due to an exception:
+AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Type Map configuration:
+ValidateLoan -> Loan
+Messages.Commands.ValidateLoan -> Rules.Api.Models.Loan
+
+Destination Member:
+LoanId
+
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Guid -> Int32
+System.Guid -> System.Int32
+   at lambda_method(Closure , Guid , Int32 , ResolutionContext )
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , Object , Loan , ResolutionContext )
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\source\repos\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 30
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-17 15:28:05:128677 Z
+	Handler failure time: 2020-08-17 15:28:05:190841 Z
+	Message ID: 797ce64f-081c-4324-9cc4-ac1a00f9e0e2
+2020-08-17 18:36:02.587 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:36:03.160 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:36:03.471 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:36:06.028 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:44:06.323 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:44:06.712 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:44:06.897 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:44:08.131 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:47:40.204 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:47:40.566 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:47:40.822 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:47:42.420 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 18:52:04.967 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 18:52:05.304 INFO  Auditing processed messages to 'audit'
+2020-08-17 18:52:05.448 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 18:52:11.854 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 19:07:28.813 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 19:07:29.490 INFO  Auditing processed messages to 'audit'
+2020-08-17 19:07:29.818 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 19:07:32.939 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 19:40:28.969 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 19:40:29.500 INFO  Auditing processed messages to 'audit'
+2020-08-17 19:40:29.771 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 19:40:31.630 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:02:33.074 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:02:33.725 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:02:33.989 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 20:02:35.499 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:05:16.222 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:05:16.640 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:05:16.847 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 20:05:18.179 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 20:13:20.749 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 20:13:21.161 INFO  Auditing processed messages to 'audit'
+2020-08-17 20:13:21.332 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 20:13:22.235 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:16:31.395 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:16:32.154 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:16:32.637 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:16:34.883 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:34:36.290 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:34:37.034 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:34:37.325 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:34:40.161 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:35:32.076 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:35:32.754 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:35:33.085 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:35:35.706 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:38:17.553 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:38:17.924 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:38:18.065 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:38:19.242 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:43:25.068 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:43:25.898 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:43:26.232 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:43:30.681 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-17 23:55:28.645 INFO  Logging to 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-17 23:55:28.906 INFO  Auditing processed messages to 'audit'
+2020-08-17 23:55:29.016 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-17 23:55:29.905 INFO  Executing 'C:\Users\user1\source\repos\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
