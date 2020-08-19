@@ -37,6 +37,7 @@ namespace Loan.Data
         {
             Entities.Loan newLoan = _mapper.Map<Entities.Loan>(loan);
             newLoan.Id = Guid.NewGuid();
+            newLoan.Date = DateTime.Now;
             newLoan.Status = Entities.eStatus.processing;
             await _loanContext.AddAsync(newLoan);
             await _loanContext.SaveChangesAsync();
@@ -69,6 +70,7 @@ namespace Loan.Data
             loanToUpdate.City = loan.City;
             loanToUpdate.Balance = loan.Balance;
             loanToUpdate.Amount = loan.Amount;
+            loanToUpdate.Date = DateTime.Now;
             await _loanContext.SaveChangesAsync();
             return _mapper.Map<Services.Models.Loan>(loanToUpdate);
         }
