@@ -27,7 +27,7 @@ namespace Rules.Services
         private Func<Loan, bool> GetRuleExpression(Rule rule, Type paramType)
         {
             ParameterExpression argParam = Expression.Parameter(typeof(Loan), "loan");
-            string param = _rulesTranslate.Parameters[rule.Parameter];
+            string param =rule.Parameter;
             Expression nameProperty = Expression.Property(argParam, param);
             ConstantExpression valueExpression;
             if (paramType.Equals(typeof(int)))
@@ -35,7 +35,7 @@ namespace Rules.Services
             else
                 valueExpression = Expression.Constant(rule.Value);
             Expression expression;
-            string sign = _rulesTranslate.Signs[rule.Condition];
+            string sign = rule.Condition;
             switch (sign)
             {
                 case ">":
@@ -56,16 +56,15 @@ namespace Rules.Services
             return lambda.Compile();
         }
 
-        //async?
         public async Task<Dictionary<int, bool>> ValidLoanAsync(Loan loan)
         {
             Dictionary<int, bool> rulesResults = new Dictionary<int, bool>();
-            List<Rule> rules =await _ruleRepository.GetRulesByProviderIdAsync(loan.ProviderId);
+            List<Rule> rules = await _ruleRepository.GetRulesByProviderIdAsync(loan.ProviderId);
             if (rules.Count() == 0)
                 throw new DataNotFoundException($"There are no rules for a provider with {loan.ProviderId} id");
             foreach (var rule in rules)
             {
-                var type = loan.GetType().GetProperty(_rulesTranslate.Parameters[rule.Parameter]).GetValue(loan, null).GetType();
+                var type = loan.GetType().GetProperty(rule.Parameter).GetValue(loan, null).GetType();
                 Func<Loan, bool> isValidRule = GetRuleExpression(rule, type);
                 rulesResults.Add(rule.Id, isValidRule(loan));
             }
@@ -85,8 +84,8 @@ namespace Rules.Services
                         {
                             Rule rule = new Rule()
                             {
-                                Parameter = reader.GetValue(0).ToString(),
-                                Condition = reader.GetValue(1).ToString(),
+                                Parameter = _rulesTranslate.Parameters[reader.GetValue(0).ToString()],
+                                Condition = _rulesTranslate.Signs[reader.GetValue(1).ToString()],
                                 Value = reader.GetValue(2).ToString(),
                                 ProviderId = providerId
                             };

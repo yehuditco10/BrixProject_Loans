@@ -5,3 +5,10 @@ C:\Users\user1\source\repos\BrixProject\Messages\obj\Debug\netstandard2.0\Messag
 C:\Users\user1\source\repos\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
 C:\Users\user1\source\repos\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.dll
 C:\Users\user1\source\repos\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\bin\Debug\netstandard2.0\Messages.deps.json
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Messages\obj\Debug\netstandard2.0\Messages.pdb

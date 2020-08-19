@@ -332,3 +332,4 @@ C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Api\obj\Deb
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Api\obj\Debug\netcoreapp3.1\Rules.Api.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Api\obj\Debug\netcoreapp3.1\Rules.Api.dll
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Api\obj\Debug\netcoreapp3.1\Rules.Api.pdb
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Api\bin\Debug\netcoreapp3.1\Rules.Data.dll.config

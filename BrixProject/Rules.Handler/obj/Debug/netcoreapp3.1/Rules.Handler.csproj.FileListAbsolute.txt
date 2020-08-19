@@ -386,3 +386,4 @@ C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\obj
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\obj\Debug\netcoreapp3.1\Rules.Handler.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\obj\Debug\netcoreapp3.1\Rules.Handler.dll
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\obj\Debug\netcoreapp3.1\Rules.Handler.pdb
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\Rules.Data.dll.config

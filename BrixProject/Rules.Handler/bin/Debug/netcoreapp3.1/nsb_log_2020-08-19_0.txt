@@ -1,0 +1,231 @@
+﻿2020-08-19 11:57:05.998 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 11:57:06.584 INFO  Auditing processed messages to 'audit'
+2020-08-19 11:57:06.868 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 11:57:08.308 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 11:58:08.465 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 11:58:09.185 INFO  Auditing processed messages to 'audit'
+2020-08-19 11:58:09.423 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 11:58:11.873 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 11:59:14.676 INFO  in ValidateLoanHandler
+2020-08-19 11:59:18.311 INFO  returns the rules results
+2020-08-19 12:19:52.486 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:19:52.838 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:19:52.941 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:19:54.004 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:24:05.317 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:24:05.718 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:24:05.877 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:24:07.401 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:30:13.545 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:30:14.296 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:30:14.530 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:30:16.702 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:31:43.043 INFO  in ValidateLoanHandler
+2020-08-19 12:31:47.399 INFO  Immediate Retry is going to retry message '763843be-d2e6-4e5f-9316-ac1c009d0463' because of an exception:
+System.Collections.Generic.KeyNotFoundException: The given key 'Age' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Services\RuleService.cs:line 68
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:31:41:399342 Z
+	Handler failure time: 2020-08-19 09:31:46:630470 Z
+	Message ID: 763843be-d2e6-4e5f-9316-ac1c009d0463
+2020-08-19 12:31:50.142 INFO  in ValidateLoanHandler
+2020-08-19 12:31:51.642 INFO  Immediate Retry is going to retry message '763843be-d2e6-4e5f-9316-ac1c009d0463' because of an exception:
+System.Collections.Generic.KeyNotFoundException: The given key 'Age' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Services\RuleService.cs:line 68
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:31:47:500704 Z
+	Handler failure time: 2020-08-19 09:31:51:438579 Z
+	Message ID: 763843be-d2e6-4e5f-9316-ac1c009d0463
+2020-08-19 12:33:17.819 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:33:18.433 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:33:18.617 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:33:20.374 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:33:28.060 INFO  in ValidateLoanHandler
+2020-08-19 12:34:35.895 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:35:29.063 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:35:29.148 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:35:29.737 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:35:36.658 INFO  in ValidateLoanHandler
+2020-08-19 12:35:36.658 INFO  in ValidateLoanHandler
+2020-08-19 12:35:40.025 INFO  Immediate Retry is going to retry message '763843be-d2e6-4e5f-9316-ac1c009d0463' because of an exception:
+System.InvalidOperationException: An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside OnConfiguring since it is still being configured at this point. This can happen if a second operation is started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at Rules.Data.RuleRepository.GetRulesByProviderIdAsync(Int32 providerId) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\RuleRepository.cs:line 25
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan)
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:35:30:318735 Z
+	Handler failure time: 2020-08-19 09:35:39:928928 Z
+	Message ID: 763843be-d2e6-4e5f-9316-ac1c009d0463
+2020-08-19 12:35:42.649 INFO  in ValidateLoanHandler
+2020-08-19 12:35:44.723 INFO  Immediate Retry is going to retry message 'fbf0a3b4-af36-4ab0-b0ef-ac1c009dfa4a' because of an exception:
+System.InvalidOperationException: A second operation started on this context before a previous operation completed. This is usually caused by different threads using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Rules.Data.RuleRepository.GetRulesByProviderIdAsync(Int32 providerId) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\RuleRepository.cs:line 25
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan)
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:35:30:318738 Z
+	Handler failure time: 2020-08-19 09:35:44:650404 Z
+	Message ID: fbf0a3b4-af36-4ab0-b0ef-ac1c009dfa4a
+2020-08-19 12:39:56.706 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:39:57.269 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:39:57.552 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:40:00.683 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:40:06.545 INFO  in ValidateLoanHandler
+2020-08-19 12:40:06.545 INFO  in ValidateLoanHandler
+2020-08-19 12:40:09.832 INFO  Immediate Retry is going to retry message '763843be-d2e6-4e5f-9316-ac1c009d0463' because of an exception:
+System.InvalidOperationException: An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside OnConfiguring since it is still being configured at this point. This can happen if a second operation is started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at Rules.Data.RuleRepository.GetRulesByProviderIdAsync(Int32 providerId) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\RuleRepository.cs:line 25
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Services\RuleService.cs:line 62
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:40:01:902239 Z
+	Handler failure time: 2020-08-19 09:40:09:678880 Z
+	Message ID: 763843be-d2e6-4e5f-9316-ac1c009d0463
+2020-08-19 12:40:12.321 INFO  in ValidateLoanHandler
+2020-08-19 12:40:14.477 INFO  Immediate Retry is going to retry message '763843be-d2e6-4e5f-9316-ac1c009d0463' because of an exception:
+System.InvalidOperationException: A second operation started on this context before a previous operation completed. This is usually caused by different threads using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Rules.Data.RuleRepository.GetRulesByProviderIdAsync(Int32 providerId) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\RuleRepository.cs:line 25
+   at Rules.Services.RuleService.ValidLoanAsync(Loan loan) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Services\RuleService.cs:line 62
+   at Rules.Handler.ValidateLoanHandler.Handle(ValidateLoan message, IMessageHandlerContext context) in C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\ValidateLoanHandler.cs:line 27
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context)
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage)
+   at CurrentSessionBehavior.Invoke(IIncomingLogicalMessageContext context, Func`1 next) in /_/src/SqlPersistence/SynchronizedStorage/CurrentSessionBehavior.cs:line 19
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next)
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage)
+   at NServiceBus.InvokeAuditPipelineBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next)
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next)
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Process(BasicDeliverEventArgs message, Byte[] messageBody) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 266
+Exception details:
+	Message type: Messages.Commands.ValidateLoan
+	Handler type: Rules.Handler.ValidateLoanHandler
+	Handler start time: 2020-08-19 09:40:09:919913 Z
+	Handler failure time: 2020-08-19 09:40:14:255063 Z
+	Message ID: 763843be-d2e6-4e5f-9316-ac1c009d0463
+2020-08-19 12:46:04.668 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:46:05.203 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:46:05.482 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:46:07.676 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:46:14.808 INFO  in ValidateLoanHandler
+2020-08-19 12:46:14.808 INFO  in ValidateLoanHandler
+2020-08-19 12:49:51.412 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:49:51.728 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:49:51.824 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:49:54.707 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:50:39.524 INFO  in ValidateLoanHandler
+2020-08-19 12:51:06.189 INFO  returns the rules results

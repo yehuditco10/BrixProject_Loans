@@ -1,0 +1,84 @@
+﻿2020-08-19 11:57:03.989 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 11:57:04.726 INFO  Auditing processed messages to 'audit'
+2020-08-19 11:57:05.028 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 11:57:07.214 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 11:57:07.881 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 11:57:08.555 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 11:58:06.023 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 11:58:06.766 INFO  Auditing processed messages to 'audit'
+2020-08-19 11:58:07.038 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 11:58:09.818 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 11:58:10.376 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 11:58:11.568 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 11:59:10.060 INFO  in LoanSaga
+2020-08-19 12:19:51.038 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:19:51.496 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:19:51.661 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:19:53.022 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:19:53.208 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:19:53.530 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:24:05.034 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:24:05.445 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:24:05.598 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:24:07.056 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:24:07.275 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:24:07.853 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:30:10.231 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:30:10.878 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:30:11.161 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:30:14.025 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:30:14.322 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:30:15.185 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:31:39.852 INFO  in LoanSaga
+2020-08-19 12:33:13.671 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:33:14.101 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:33:14.231 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:33:16.437 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:33:16.802 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:33:17.571 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:34:33.086 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:34:33.593 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:34:33.770 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:34:35.626 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:34:35.809 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:34:36.238 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:35:09.868 INFO  in LoanSaga
+2020-08-19 12:39:53.592 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:39:54.435 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:39:54.803 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:39:57.219 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:39:57.550 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:39:58.625 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:45:59.534 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:45:59.699 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:45:59.765 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:46:00.320 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:46:00.489 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:46:00.933 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:49:50.093 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 12:49:50.598 INFO  Auditing processed messages to 'audit'
+2020-08-19 12:49:50.790 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 12:49:52.324 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 12:49:52.702 INFO  Executing saga creation scripts:
+C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
+2020-08-19 12:49:53.346 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 12:50:35.719 INFO  in LoanSaga

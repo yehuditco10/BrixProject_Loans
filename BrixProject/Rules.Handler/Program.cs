@@ -79,7 +79,8 @@ namespace Rules.Handler
         }
             });
             containerSettings.ServiceCollection.AddDbContext<RulesContext>(options =>
-                        options.UseSqlServer(connection));
+                        options.UseSqlServer(connection),
+                        ServiceLifetime.Scoped);
 
             var mappingConfig = new MapperConfiguration(mc =>
             {

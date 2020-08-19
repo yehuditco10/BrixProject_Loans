@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Rules.Api.Middleware;
 using Rules.Data;
 using Rules.Services;
 using Rules.Services.Models;
@@ -24,7 +25,8 @@ namespace Rules.Api
             services.AddControllers();
             services.AddDbContext<RulesContext>(options =>
                options.UseSqlServer(
-                   Configuration.GetConnectionString("RuleConnection")));
+                   Configuration.GetConnectionString("RuleConnection")),
+                   ServiceLifetime.Scoped);
             services.AddScoped<IRuleService, RuleService>();
             services.AddScoped<IRuleRepository, RuleRepository>();
             services.AddSingleton<RulesTranslate>(new RulesTranslate()
@@ -81,7 +83,7 @@ namespace Rules.Api
             }
             app.UseRouting();
             app.UseCors("MyPolicy");
-            //app.UseMiddleware(typeof(ErrorHandlerMiddleware));
+            app.UseMiddleware(typeof(ErrorHandlerMiddleware));
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
