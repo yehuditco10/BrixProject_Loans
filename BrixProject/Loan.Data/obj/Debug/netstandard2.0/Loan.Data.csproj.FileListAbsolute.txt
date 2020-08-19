@@ -26,3 +26,17 @@ C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Data\obj\Deb
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.dll
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Data.dll.config
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Data.deps.json
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Data.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Data.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Services.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Messages.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Loan.Services.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\bin\Debug\netstandard2.0\Messages.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.csproj.CopyComplete
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Data\obj\Debug\netstandard2.0\Loan.Data.pdb

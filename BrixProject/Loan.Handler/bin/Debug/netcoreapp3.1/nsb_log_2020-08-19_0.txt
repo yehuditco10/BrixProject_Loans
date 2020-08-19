@@ -82,3 +82,10 @@ License Expiration: 2020-10-05
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Sagas\LoanPolicySaga_Create.sql
 2020-08-19 12:49:53.346 WARN  All queues owned by the endpoint will be purged on startup.
 2020-08-19 12:50:35.719 INFO  in LoanSaga
+2020-08-19 14:18:20.404 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 14:18:22.584 INFO  Auditing processed messages to 'audit'
+2020-08-19 14:18:24.048 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 14:18:29.919 INFO  Executing 'C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Loan.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 14:18:31.523 WARN  All queues owned by the endpoint will be purged on startup.
+2020-08-19 14:20:37.223 INFO  recived results from rules service

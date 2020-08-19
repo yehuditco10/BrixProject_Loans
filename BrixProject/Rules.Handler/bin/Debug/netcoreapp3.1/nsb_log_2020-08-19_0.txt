@@ -229,3 +229,10 @@ License Expiration: 2020-10-05
 2020-08-19 12:49:54.707 INFO  Executing 'C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
 2020-08-19 12:50:39.524 INFO  in ValidateLoanHandler
 2020-08-19 12:51:06.189 INFO  returns the rules results
+2020-08-19 14:18:21.467 INFO  Logging to 'C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\' with level Info
+2020-08-19 14:18:24.262 INFO  Auditing processed messages to 'audit'
+2020-08-19 14:18:24.821 INFO  Selected active license from C:\Users\user1\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2020-10-05
+2020-08-19 14:18:30.027 INFO  Executing 'C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Handler\bin\Debug\netcoreapp3.1\NServiceBus.Persistence.Sql\MsSqlServer\Outbox_Create.sql'
+2020-08-19 14:19:35.504 INFO  in ValidateLoanHandler
+2020-08-19 14:20:31.066 INFO  returns the rules results

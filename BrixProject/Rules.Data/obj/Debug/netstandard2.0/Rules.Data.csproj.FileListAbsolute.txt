@@ -21,3 +21,15 @@ C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\obj\De
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.csproj.CopyComplete
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.dll
 C:\Users\user1\Documents\Yehudit\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Data.dll.config
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Data.deps.json
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Data.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Data.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Services.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\bin\Debug\netstandard2.0\Rules.Services.pdb
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.csprojAssemblyReference.cache
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.AssemblyInfo.cs
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.csproj.CopyComplete
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.dll
+C:\Users\user1\Documents\Yehudit\withHandler\BrixProject_Loans\BrixProject\Rules.Data\obj\Debug\netstandard2.0\Rules.Data.pdb

@@ -7430,11 +7430,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Data\\Rules.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\Yehudit\\withHandler\\BrixProject_Loans\\BrixProject\\Rules.Data\\Rules.Data.csproj",
       "projectName": "Rules.Data",
-      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Data\\Rules.Data.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\withHandler\\BrixProject_Loans\\BrixProject\\Rules.Data\\Rules.Data.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Data\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\Yehudit\\withHandler\\BrixProject_Loans\\BrixProject\\Rules.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7450,8 +7450,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj": {
-              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj"
+            "C:\\Users\\user1\\Documents\\Yehudit\\withHandler\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj": {
+              "projectPath": "C:\\Users\\user1\\Documents\\Yehudit\\withHandler\\BrixProject_Loans\\BrixProject\\Rules.Services\\Rules.Services.csproj"
             }
           }
         }

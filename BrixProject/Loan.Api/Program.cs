@@ -58,7 +58,7 @@ namespace Loans.Api
       var routing = transport.Routing();
       routing.RouteToEndpoint(
           messageType: typeof(Messages.Commands.ValidateLoan),
-          destination: "LoanHandler");
+          destination: "Rules");
 
       endpointConfiguration.SendFailedMessagesTo("error");
       endpointConfiguration.AuditProcessedMessagesTo("audit");
